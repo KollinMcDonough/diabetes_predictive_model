@@ -1,1 +1,1 @@
-# diabetes_predictive_model
+#A machine learning pipeline using Python (NumPy, Pandas, Scikit-learn) to classify patients into high vs. low diabetes progression risk. Compared Logistic Regression and Random Forest models, applied cross-validation, and optimized hyperparameters with GridSearchCV. Visualized feature importance to highlight health factors such as BMI and blood pressure.
